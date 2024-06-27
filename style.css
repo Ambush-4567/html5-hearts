@@ -236,18 +236,13 @@ td[contentEditable]{
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: lightblue;
+	background: rgb(58,99,164);
+        background: linear-gradient(90deg, rgba(58,99,164,1) 0%, rgba(24,81,85,1) 0%, rgba(50,145,164,1) 57%);
 	-webkit-perspective: 8000px;
 	-moz-perspective: 8000px;
 	-ms-perspective: 8000px;
 	-o-perspective: 8000px;
 	perspective: 8000px;
-	background-image:-webkit-radial-gradient(
-		50% 38%, #53c230, #138300);
-	background-image:-moz-radial-gradient(
-		50% 38%, #53c230, #138300);
-	background-image:-o-radial-gradient(
-		50% 38%, #53c230, #138300);
 	background-position:center;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
