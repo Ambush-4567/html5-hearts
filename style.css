@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
+button, input[type="button"] 
+{
+    cursor: pointer;
+    font-family: "M PLUS 1p", sans-serif;
+    font-weight: 500;
+}
+
 @keyframes "pulsing" {
 	from {
 	       box-shadow: 0 0 0 black, inset 0 0 0 lightblue, 0 0 0 0 lightblue;
