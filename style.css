@@ -56,7 +56,8 @@ html, body{
 	height: 100%;
 	width: 100%;
 	overflow: hidden;
-	font-family: Arial;
+	font-family: "M PLUS 1p", sans-serif;
+        font-weight: 500;
 }
 
 td[contentEditable]{
